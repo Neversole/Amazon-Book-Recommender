@@ -10,7 +10,7 @@ This repo contains a group project that was completed during my studies. The obj
 * amazon-meta.txt - The original dataset used for this project.
 
 ### parser.py
-This code parses the amazon-meta.txt file to create the two csv files, procucts.csv and reviews.csv, that can be found in the Data folder.
+This code parses the amazon-meta.txt file to create the two csv files, procucts.csv and reviews.csv.
 
 
 
