@@ -15,6 +15,15 @@ This code parses the amazon-meta.txt file to create the two csv files, procucts.
 ### mongoDB_query.py
 This code creates our database in mongoDB.
 
+### Amazon_streamlit_app.py
+This file contains the code for the Amazon book recommender app.
+
+
+
+
+
+
+
 version https://git-lfs.github.com/spec/v1
 oid sha256:8e0b05116b5fcc199827be1e261ce8cabca341605e0df662bfdb86108a10478a
 size 25
