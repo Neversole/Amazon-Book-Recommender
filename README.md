@@ -1,7 +1,7 @@
 # Amazon Book Recommender Engine
 -------------------------
 
-This repo contains a group project that was completed during my studies. The objective of this project was to use amazon product meta data to create a web-based application that recommends books to the user.
+This repo contains a group project that was completed during my studies. This project uses Amazon product metadata to produce a graphical user interface that generates book recommendations for a user. The focus of this project is to use co-purchasing history to map the relationship between books and evaluate the connections to make accurate product recommendations. 
 
 -------------------------
 
@@ -10,7 +10,7 @@ This repo contains a group project that was completed during my studies. The obj
 * amazon-meta.txt - The original dataset used for this project.
 
 ### parser.py
-This code parses the amazon-meta.txt file to create the two csv files, procucts.csv and reviews.csv.
+This code parses the amazon-meta.txt file to create two csv files, procucts.csv and reviews.csv. These csv files are the datasets that are then uploaded to mongoDB for further use.
 
 ### mongoDB_query.py
 This code creates our database in mongoDB.
