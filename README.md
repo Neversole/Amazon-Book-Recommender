@@ -18,7 +18,8 @@ This code creates our database in mongoDB.
 ### Amazon_streamlit_app.py
 This file contains the code for the Amazon book recommender app.
 
-
+### Final Report - Amazon Book Recommender.PDF
+This PDF file contains an analytical report that explains our processes and findings.
 
 
 
